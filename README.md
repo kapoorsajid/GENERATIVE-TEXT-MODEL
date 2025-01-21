@@ -12,7 +12,8 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-#DESCRIPTION: Generative text models are a subset of artificial intelligence (AI) systems designed to produce human-like text based on patterns learned from extensive datasets. These models have revolutionized the way machines understand and generate language, leading to advancements in various applications such as chatbots, content creation, translation, and more.
+#DESCRIPTION:
+Generative text models are a subset of artificial intelligence (AI) systems designed to produce human-like text based on patterns learned from extensive datasets. These models have revolutionized the way machines understand and generate language, leading to advancements in various applications such as chatbots, content creation, translation, and more.
 
 Understanding Generative Text Models
 
@@ -58,4 +59,4 @@ THE ATLANTIC
 
 Moreover, efforts are being made to make these models more accessible and efficient, reducing the computational overhead without compromising performance. This democratization of technology paves the way for broader adoption and innovation across various sectors.
 
-#OUTPUT: 
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/296a9b19-a0db-4d86-b664-5ba2389455aa) 
